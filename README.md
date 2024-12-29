@@ -1,3 +1,3 @@
 # flutter_signup
 
-A new Flutter project.
+Flutter Codelab #2 - Sign up form with progress bar and validation
